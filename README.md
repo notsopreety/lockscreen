@@ -44,6 +44,7 @@ QML2_IMPORT_PATH=~/.config/quickshell/lockscreen quickshell -p ~/.config/quicksh
 
 - Media player integration (MPRIS)
 - Status indicators (Battery, Wi-Fi, Bluetooth)
+- Logout management
 - Smooth transitions and animations
 
 > **TIP**: Set keybindings of lockscreen in yourhyprland config for easy access.
